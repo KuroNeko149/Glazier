@@ -75,6 +75,6 @@ W tym panelu znajdziesz:
 
 Aby zainstalować aplikację na telefonie z systemem Android:
 
-1. **Pobierz plik instalacyjny:** Pobierz paczkę [Glazier_1.2.0.apk](https://github.com/KuroNeko149/Glazier/releases/download/Release/Glazier_1.2.0.apk).
+1. **Pobierz plik instalacyjny:** Pobierz paczkę [Glazier_1.2.0.apk](https://github.com/KuroNeko149/Glazier/releases/latest).
 2. **Zezwól na instalację:** Ponieważ aplikacja nie znajduje się w sklepie Google Play, telefon może poprosić o zezwolenie na instalację aplikacji z nieznanych źródeł – należy to potwierdzić.
 3. **Zainstaluj:** Otwórz pobrany plik i zatwierdź chęć instalacji.
